@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend Deverloper**
 
-- 🌱 I’m currently learning **React,Nodejs,Html,CSS**
+- 🌱 I’m currently learning **Nextjs,TypeScript,TailwindCSS**
 
 - 🤝 I’m Studied **Advanced Technological Institute Naiwala**
 
